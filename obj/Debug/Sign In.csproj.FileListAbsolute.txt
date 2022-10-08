@@ -1,0 +1,21 @@
+D:\2nd Semester\Week 9\Sign In\bin\Debug\Sign In.exe.config
+D:\2nd Semester\Week 9\Sign In\bin\Debug\Sign In.exe
+D:\2nd Semester\Week 9\Sign In\bin\Debug\Sign In.pdb
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign In.csproj.AssemblyReference.cache
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign In.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.Form1.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.Properties.Resources.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.SignIN.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.SignUP.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign In.csproj.GenerateResource.cache
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign In.csproj.CoreCompileInputs.cache
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign In.exe
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign In.pdb
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.UI.AddProduct.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.UI.AdminMenu.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.UI.UserMenu.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.UI.ViewProduct.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.UI.ExpensiveProduct.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.UI.LowQuantityProducts.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.UI.ViewProductsUser.resources
+D:\2nd Semester\Week 9\Sign In\obj\Debug\Sign_In.UI.BuyProduct.resources

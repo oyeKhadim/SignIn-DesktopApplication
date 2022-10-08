@@ -1,0 +1,12 @@
+Tea,Milk,100,36,45
+Mango,Fruit,500,1000,20
+as,sa,12,10,12
+Tea,Milk,100,40,5
+Mango,Fruit,500,1000,20
+as,sa,12,15,12
+Coffee,Others,100,500,5
+Coffee,Others,100,500,5
+Coffee,Others,100,500,5
+Coffee,Others,100,500,5
+as,Groceery,1333,2,12
+sas,Others,2,121,12
